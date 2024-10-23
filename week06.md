@@ -12,13 +12,13 @@ This was curious in many ways. First, I read some of his essays back in freshman
 
 Many, if not most, of the visualizations use bar charts, but then we get things like Plates 11, 17, 25, 26 and 62, which are bar charts, but with curves. I don't even know how to describe Plate 11, and all of these require a couple of takes to comprehend. It's like they're breaking the expectations of straight bar charts by curving.
 
-![](./assets/week05/plates-11-17-26.jpg)
+![](./assets/week06/plates-11-17-26.jpg)
 
 
 Plates 14 and 23 have a unique crisscross design that I have never seen before, and similarly, plate 22 is also a very unique circle graph that has something like an arrowhead shape to emphasize the numbers. Again, I think there's something here that's about breaking with the expectations, and purposefully making the data a little more challenging to read.
 
-![](./assets/week05/plates-14-23-22.jpg)
+![](./assets/week06/plates-14-23-22.jpg)
 
 And, finally, I think plates 31 and 42 have a very contemporary, almost digital, aspect. Plate 31 almost has pop-ups, and 42 has some non-obvious scaling and relative proportions that, again, make it trickier to read, in a challenging way.
 
-![](./assets/week05/plates-31-42.jpg)
+![](./assets/week06/plates-31-42.jpg)
